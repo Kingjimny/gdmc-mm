@@ -1,7 +1,641 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AndroidConfiguredLogFilters">
+    <filters>
+      <filter>
+        <option name="name" value="app: com.gdmcmm.android.activity" />
+        <option name="packageNamePattern" value="com.gdmcmm.android.activity" />
+      </filter>
+    </filters>
+  </component>
+  <component name="AndroidLayoutPreviewToolWindow">
+    <option name="state">
+      <GlobalState />
+    </option>
+  </component>
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="app: com.gdmcmm.android.activity" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="7c3b2c90-7470-4803-aae1-cc5878689712" name="Default" comment="" />
+    <list default="true" id="7c3b2c90-7470-4803-aae1-cc5878689712" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-hdpi/abc_ab_bottom_solid_dark_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-mdpi/abc_ab_bottom_solid_dark_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xhdpi/abc_ab_bottom_solid_dark_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xxhdpi/abc_ab_bottom_solid_dark_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-hdpi/abc_ab_bottom_solid_light_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-mdpi/abc_ab_bottom_solid_light_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xhdpi/abc_ab_bottom_solid_light_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xxhdpi/abc_ab_bottom_solid_light_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-hdpi/abc_ab_bottom_transparent_dark_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-mdpi/abc_ab_bottom_transparent_dark_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xhdpi/abc_ab_bottom_transparent_dark_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xxhdpi/abc_ab_bottom_transparent_dark_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-hdpi/abc_ab_bottom_transparent_light_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-mdpi/abc_ab_bottom_transparent_light_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xhdpi/abc_ab_bottom_transparent_light_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xxhdpi/abc_ab_bottom_transparent_light_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-hdpi/abc_ab_share_pack_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-mdpi/abc_ab_share_pack_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xhdpi/abc_ab_share_pack_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xxhdpi/abc_ab_share_pack_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-hdpi/abc_ab_share_pack_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-mdpi/abc_ab_share_pack_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xhdpi/abc_ab_share_pack_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xxhdpi/abc_ab_share_pack_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-hdpi/abc_ab_solid_dark_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-mdpi/abc_ab_solid_dark_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xhdpi/abc_ab_solid_dark_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xxhdpi/abc_ab_solid_dark_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-hdpi/abc_ab_solid_light_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-mdpi/abc_ab_solid_light_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xhdpi/abc_ab_solid_light_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xxhdpi/abc_ab_solid_light_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-hdpi/abc_ab_stacked_solid_dark_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-mdpi/abc_ab_stacked_solid_dark_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xhdpi/abc_ab_stacked_solid_dark_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xxhdpi/abc_ab_stacked_solid_dark_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-hdpi/abc_ab_stacked_solid_light_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-mdpi/abc_ab_stacked_solid_light_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xhdpi/abc_ab_stacked_solid_light_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xxhdpi/abc_ab_stacked_solid_light_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-hdpi/abc_ab_stacked_transparent_dark_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-mdpi/abc_ab_stacked_transparent_dark_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xhdpi/abc_ab_stacked_transparent_dark_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xxhdpi/abc_ab_stacked_transparent_dark_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-hdpi/abc_ab_stacked_transparent_light_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-mdpi/abc_ab_stacked_transparent_light_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xhdpi/abc_ab_stacked_transparent_light_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xxhdpi/abc_ab_stacked_transparent_light_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-hdpi/abc_ab_transparent_dark_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-mdpi/abc_ab_transparent_dark_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xhdpi/abc_ab_transparent_dark_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xxhdpi/abc_ab_transparent_dark_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-hdpi/abc_ab_transparent_light_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-mdpi/abc_ab_transparent_light_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xhdpi/abc_ab_transparent_light_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xxhdpi/abc_ab_transparent_light_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-hdpi/abc_cab_background_bottom_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-mdpi/abc_cab_background_bottom_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xhdpi/abc_cab_background_bottom_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xxhdpi/abc_cab_background_bottom_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-hdpi/abc_cab_background_bottom_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-mdpi/abc_cab_background_bottom_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xhdpi/abc_cab_background_bottom_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xxhdpi/abc_cab_background_bottom_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-hdpi/abc_cab_background_top_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-mdpi/abc_cab_background_top_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xhdpi/abc_cab_background_top_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xxhdpi/abc_cab_background_top_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-hdpi/abc_cab_background_top_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-mdpi/abc_cab_background_top_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xhdpi/abc_cab_background_top_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xxhdpi/abc_cab_background_top_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-hdpi/abc_ic_ab_back_holo_dark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-mdpi/abc_ic_ab_back_holo_dark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xhdpi/abc_ic_ab_back_holo_dark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xxhdpi/abc_ic_ab_back_holo_dark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-hdpi/abc_ic_ab_back_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-mdpi/abc_ic_ab_back_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xhdpi/abc_ic_ab_back_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xxhdpi/abc_ic_ab_back_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-hdpi/abc_ic_cab_done_holo_dark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-mdpi/abc_ic_cab_done_holo_dark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xhdpi/abc_ic_cab_done_holo_dark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xxhdpi/abc_ic_cab_done_holo_dark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-hdpi/abc_ic_cab_done_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-mdpi/abc_ic_cab_done_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xhdpi/abc_ic_cab_done_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xxhdpi/abc_ic_cab_done_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-hdpi/abc_ic_clear_disabled.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-mdpi/abc_ic_clear_disabled.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xhdpi/abc_ic_clear_disabled.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xxhdpi/abc_ic_clear_disabled.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-hdpi/abc_ic_clear_normal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-mdpi/abc_ic_clear_normal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xhdpi/abc_ic_clear_normal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xxhdpi/abc_ic_clear_normal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-hdpi/abc_ic_clear_search_api_disabled_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-mdpi/abc_ic_clear_search_api_disabled_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xhdpi/abc_ic_clear_search_api_disabled_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xxhdpi/abc_ic_clear_search_api_disabled_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-hdpi/abc_ic_clear_search_api_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-mdpi/abc_ic_clear_search_api_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xhdpi/abc_ic_clear_search_api_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xxhdpi/abc_ic_clear_search_api_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-hdpi/abc_ic_commit_search_api_holo_dark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-mdpi/abc_ic_commit_search_api_holo_dark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xhdpi/abc_ic_commit_search_api_holo_dark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xxhdpi/abc_ic_commit_search_api_holo_dark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-hdpi/abc_ic_commit_search_api_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-mdpi/abc_ic_commit_search_api_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xhdpi/abc_ic_commit_search_api_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xxhdpi/abc_ic_commit_search_api_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-hdpi/abc_ic_go.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-mdpi/abc_ic_go.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xhdpi/abc_ic_go.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xxhdpi/abc_ic_go.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-hdpi/abc_ic_go_search_api_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-mdpi/abc_ic_go_search_api_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xhdpi/abc_ic_go_search_api_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xxhdpi/abc_ic_go_search_api_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-hdpi/abc_ic_menu_moreoverflow_normal_holo_dark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-mdpi/abc_ic_menu_moreoverflow_normal_holo_dark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xhdpi/abc_ic_menu_moreoverflow_normal_holo_dark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xxhdpi/abc_ic_menu_moreoverflow_normal_holo_dark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-hdpi/abc_ic_menu_moreoverflow_normal_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-mdpi/abc_ic_menu_moreoverflow_normal_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xhdpi/abc_ic_menu_moreoverflow_normal_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xxhdpi/abc_ic_menu_moreoverflow_normal_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-hdpi/abc_ic_menu_share_holo_dark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-mdpi/abc_ic_menu_share_holo_dark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xhdpi/abc_ic_menu_share_holo_dark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xxhdpi/abc_ic_menu_share_holo_dark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-hdpi/abc_ic_menu_share_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-mdpi/abc_ic_menu_share_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xhdpi/abc_ic_menu_share_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xxhdpi/abc_ic_menu_share_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-hdpi/abc_ic_search.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-mdpi/abc_ic_search.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xhdpi/abc_ic_search.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xxhdpi/abc_ic_search.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-hdpi/abc_ic_search_api_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-mdpi/abc_ic_search_api_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xhdpi/abc_ic_search_api_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xxhdpi/abc_ic_search_api_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-hdpi/abc_ic_voice_search.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-mdpi/abc_ic_voice_search.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xhdpi/abc_ic_voice_search.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xxhdpi/abc_ic_voice_search.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-hdpi/abc_ic_voice_search_api_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-mdpi/abc_ic_voice_search_api_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xhdpi/abc_ic_voice_search_api_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xxhdpi/abc_ic_voice_search_api_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-hdpi/abc_list_divider_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-mdpi/abc_list_divider_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xhdpi/abc_list_divider_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xxhdpi/abc_list_divider_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-hdpi/abc_list_divider_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-mdpi/abc_list_divider_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xhdpi/abc_list_divider_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xxhdpi/abc_list_divider_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-hdpi/abc_list_focused_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-mdpi/abc_list_focused_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xhdpi/abc_list_focused_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xxhdpi/abc_list_focused_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-hdpi/abc_list_longpressed_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-mdpi/abc_list_longpressed_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xhdpi/abc_list_longpressed_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xxhdpi/abc_list_longpressed_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-hdpi/abc_list_pressed_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-mdpi/abc_list_pressed_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xhdpi/abc_list_pressed_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xxhdpi/abc_list_pressed_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-hdpi/abc_list_pressed_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-mdpi/abc_list_pressed_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xhdpi/abc_list_pressed_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xxhdpi/abc_list_pressed_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-hdpi/abc_list_selector_disabled_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-mdpi/abc_list_selector_disabled_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xhdpi/abc_list_selector_disabled_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xxhdpi/abc_list_selector_disabled_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-hdpi/abc_list_selector_disabled_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-mdpi/abc_list_selector_disabled_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xhdpi/abc_list_selector_disabled_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xxhdpi/abc_list_selector_disabled_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-hdpi/abc_menu_dropdown_panel_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-mdpi/abc_menu_dropdown_panel_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xhdpi/abc_menu_dropdown_panel_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xxhdpi/abc_menu_dropdown_panel_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-hdpi/abc_menu_dropdown_panel_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-mdpi/abc_menu_dropdown_panel_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xhdpi/abc_menu_dropdown_panel_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xxhdpi/abc_menu_dropdown_panel_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-hdpi/abc_menu_hardkey_panel_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-mdpi/abc_menu_hardkey_panel_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xhdpi/abc_menu_hardkey_panel_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xxhdpi/abc_menu_hardkey_panel_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-hdpi/abc_menu_hardkey_panel_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-mdpi/abc_menu_hardkey_panel_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xhdpi/abc_menu_hardkey_panel_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xxhdpi/abc_menu_hardkey_panel_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-hdpi/abc_spinner_ab_default_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-mdpi/abc_spinner_ab_default_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xhdpi/abc_spinner_ab_default_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xxhdpi/abc_spinner_ab_default_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-hdpi/abc_spinner_ab_default_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-mdpi/abc_spinner_ab_default_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xhdpi/abc_spinner_ab_default_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xxhdpi/abc_spinner_ab_default_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-hdpi/abc_spinner_ab_disabled_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-mdpi/abc_spinner_ab_disabled_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xhdpi/abc_spinner_ab_disabled_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xxhdpi/abc_spinner_ab_disabled_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-hdpi/abc_spinner_ab_disabled_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-mdpi/abc_spinner_ab_disabled_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xhdpi/abc_spinner_ab_disabled_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xxhdpi/abc_spinner_ab_disabled_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-hdpi/abc_spinner_ab_focused_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-mdpi/abc_spinner_ab_focused_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xhdpi/abc_spinner_ab_focused_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xxhdpi/abc_spinner_ab_focused_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-hdpi/abc_spinner_ab_focused_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-mdpi/abc_spinner_ab_focused_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xhdpi/abc_spinner_ab_focused_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xxhdpi/abc_spinner_ab_focused_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-hdpi/abc_spinner_ab_pressed_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-mdpi/abc_spinner_ab_pressed_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xhdpi/abc_spinner_ab_pressed_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xxhdpi/abc_spinner_ab_pressed_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-hdpi/abc_spinner_ab_pressed_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-mdpi/abc_spinner_ab_pressed_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xhdpi/abc_spinner_ab_pressed_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xxhdpi/abc_spinner_ab_pressed_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-hdpi/abc_tab_selected_focused_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-mdpi/abc_tab_selected_focused_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xhdpi/abc_tab_selected_focused_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xxhdpi/abc_tab_selected_focused_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-hdpi/abc_tab_selected_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-mdpi/abc_tab_selected_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xhdpi/abc_tab_selected_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xxhdpi/abc_tab_selected_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-hdpi/abc_tab_selected_pressed_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-mdpi/abc_tab_selected_pressed_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xhdpi/abc_tab_selected_pressed_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xxhdpi/abc_tab_selected_pressed_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-hdpi/abc_tab_unselected_pressed_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-mdpi/abc_tab_unselected_pressed_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xhdpi/abc_tab_unselected_pressed_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xxhdpi/abc_tab_unselected_pressed_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-hdpi/abc_textfield_search_default_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-mdpi/abc_textfield_search_default_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xhdpi/abc_textfield_search_default_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xxhdpi/abc_textfield_search_default_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-hdpi/abc_textfield_search_default_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-mdpi/abc_textfield_search_default_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xhdpi/abc_textfield_search_default_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xxhdpi/abc_textfield_search_default_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-hdpi/abc_textfield_search_right_default_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-mdpi/abc_textfield_search_right_default_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xhdpi/abc_textfield_search_right_default_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xxhdpi/abc_textfield_search_right_default_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-hdpi/abc_textfield_search_right_default_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-mdpi/abc_textfield_search_right_default_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xhdpi/abc_textfield_search_right_default_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xxhdpi/abc_textfield_search_right_default_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-hdpi/abc_textfield_search_right_selected_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-mdpi/abc_textfield_search_right_selected_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xhdpi/abc_textfield_search_right_selected_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xxhdpi/abc_textfield_search_right_selected_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-hdpi/abc_textfield_search_right_selected_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-mdpi/abc_textfield_search_right_selected_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xhdpi/abc_textfield_search_right_selected_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xxhdpi/abc_textfield_search_right_selected_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-hdpi/abc_textfield_search_selected_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-mdpi/abc_textfield_search_selected_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xhdpi/abc_textfield_search_selected_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xxhdpi/abc_textfield_search_selected_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-hdpi/abc_textfield_search_selected_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-mdpi/abc_textfield_search_selected_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xhdpi/abc_textfield_search_selected_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-xxhdpi/abc_textfield_search_selected_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/Android-PullToRefreshLibrary/libs/android-support-v4.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/libs/android-support-v4.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/JimnyLibs/libs/android-support-v4.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/Android-PullToRefreshLibrary/res/drawable-hdpi/default_ptr_flip.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/Android-PullToRefreshLibrary/res/drawable-mdpi/default_ptr_flip.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/Android-PullToRefreshLibrary/res/drawable-xhdpi/default_ptr_flip.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/Android-PullToRefreshLibrary/res/drawable-hdpi/default_ptr_rotate.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/Android-PullToRefreshLibrary/res/drawable-mdpi/default_ptr_rotate.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/Android-PullToRefreshLibrary/res/drawable-xhdpi/default_ptr_rotate.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/JimnyLibs/libs/gson-2.2.4.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/JimnyLibs/res/drawable-hdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/JimnyLibs/res/drawable-ldpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/JimnyLibs/res/drawable-mdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/JimnyLibs/res/drawable-xhdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/Android-PullToRefreshLibrary/res/drawable-hdpi/indicator_arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/Android-PullToRefreshLibrary/res/drawable-mdpi/indicator_arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/Android-PullToRefreshLibrary/res/drawable-xhdpi/indicator_arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/Android-PullToRefreshLibrary/.classpath" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/.classpath" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/Android-PullToRefreshLibrary/.project" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/.project" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/src/.readme" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/src/android/support/v7/internal/widget/AbsActionBarView.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/src/android/support/v7/internal/widget/AbsSpinnerICS.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/src/android/support/v7/app/ActionBar.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/src/android/support/v7/app/ActionBarActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/src/android/support/v7/app/ActionBarActivityDelegate.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/src/android/support/v7/app/ActionBarActivityDelegateBase.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/src/android/support/v7/app/ActionBarActivityDelegateHC.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/src/android/support/v7/app/ActionBarActivityDelegateICS.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/src/android/support/v7/app/ActionBarActivityDelegateJB.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/src/android/support/v7/app/ActionBarActivityDelegateJBMR2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/src/android/support/v7/internal/widget/ActionBarContainer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/src/android/support/v7/internal/widget/ActionBarContextView.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/src/android/support/v7/app/ActionBarImplBase.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/src/android/support/v7/app/ActionBarImplHC.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/src/android/support/v7/app/ActionBarImplICS.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/src/android/support/v7/app/ActionBarImplJB.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/src/android/support/v7/app/ActionBarImplJBMR2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/src/android/support/v7/internal/widget/ActionBarOverlayLayout.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/src/android/support/v7/internal/view/ActionBarPolicy.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/src/android/support/v7/internal/widget/ActionBarView.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/src/android/support/v7/internal/view/menu/ActionMenuItem.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/src/android/support/v7/internal/view/menu/ActionMenuItemView.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/src/android/support/v7/internal/view/menu/ActionMenuPresenter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/src/android/support/v7/internal/view/menu/ActionMenuView.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/src/android/support/v7/view/ActionMode.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/src/android/support/v7/internal/view/ActionModeWrapper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/src/android/support/v7/internal/view/ActionModeWrapperJB.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/src/android/support/v7/internal/widget/ActivityChooserModel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/src/android/support/v7/internal/widget/ActivityChooserView.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/src/android/support/v7/internal/widget/AdapterViewICS.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/Android-PullToRefreshLibrary/src/com/handmark/pulltorefresh/library/stickylistheaders/AdapterWrapper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/Android-PullToRefreshLibrary/Android-PullToRefreshLibrary.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/Android-PullToRefreshLibrary/AndroidManifest.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/AndroidManifest.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/JimnyLibs/AndroidManifest.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/AppCompatLibrary.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/gdmcmm/android/config/AppDebugConfig.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/gdmcmm/android/AppInstance.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/gdmcmm/android/activity/BaseActionBarActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/gdmcmm/android/fragment/base/BaseFragment.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/src/android/support/v7/internal/view/menu/BaseMenuPresenter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/src/android/support/v7/internal/view/menu/BaseMenuWrapper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/src/android/support/v7/internal/view/menu/BaseWrapper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/Android-PullToRefreshLibrary/src/com/handmark/pulltorefresh/library/stickylistheaders/CheckableWrapperView.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/src/android/support/v7/view/CollapsibleActionView.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/src/android/support/v7/internal/widget/CompatTextView.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/Android-PullToRefreshLibrary/src/com/handmark/pulltorefresh/library/internal/EmptyViewMethodAccessor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/src/android/support/v7/internal/view/menu/ExpandedMenuView.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/Android-PullToRefreshLibrary/src/com/handmark/pulltorefresh/library/internal/FlipLoadingLayout.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/gdmcmm/android/fragment/FragmentLogin.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/gdmcmm/android/fragment/FragmentMain.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/JimnyLibs/src/com/JimnyLibs/android/listener/FragmentNavigateListener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/Android-PullToRefreshLibrary/src/com/handmark/pulltorefresh/library/ILoadingLayout.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/Android-PullToRefreshLibrary/src/com/handmark/pulltorefresh/library/IPullToRefresh.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/Android-PullToRefreshLibrary/src/com/handmark/pulltorefresh/library/internal/IndicatorLayout.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/JimnyLibs/src/com/JimnyLibs/android/activity/JimnyActionBarActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/JimnyLibs/JimnyLibs.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/JimnyLibs/src/com/JimnyLibs/android/entity/JsonBase.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/Android-PullToRefreshLibrary/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/src/android/support/v7/internal/widget/LinearLayoutICS.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/src/android/support/v7/internal/view/menu/ListMenuItemView.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/src/android/support/v7/internal/view/menu/ListMenuPresenter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/src/android/support/v7/internal/widget/ListPopupWindow.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/Android-PullToRefreshLibrary/src/com/handmark/pulltorefresh/library/internal/LoadingLayout.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/Android-PullToRefreshLibrary/src/com/handmark/pulltorefresh/library/LoadingLayoutProxy.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/src/android/support/v7/internal/view/menu/MenuBuilder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/src/android/support/v7/internal/view/menu/MenuDialogHelper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/src/android/support/v7/internal/view/menu/MenuItemImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/src/android/support/v7/internal/view/menu/MenuItemWrapperICS.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/src/android/support/v7/internal/view/menu/MenuItemWrapperJB.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/src/android/support/v7/internal/view/menu/MenuPopupHelper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/src/android/support/v7/internal/view/menu/MenuPresenter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/src/android/support/v7/internal/view/menu/MenuView.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/src/android/support/v7/internal/view/menu/MenuWrapperFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/src/android/support/v7/internal/view/menu/MenuWrapperICS.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/src/android/support/v7/internal/widget/NativeActionModeAwareLayout.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/JimnyLibs/src/com/JimnyLibs/android/listener/OnLoaderDelegateListener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/Android-PullToRefreshLibrary/src/com/handmark/pulltorefresh/library/OverscrollHelper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/src/android/support/v7/widget/PopupMenu.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/src/android/support/v7/internal/widget/ProgressBarICS.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/Android-PullToRefreshLibrary/src/com/handmark/pulltorefresh/library/PullToRefreshAdapterViewBase.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/Android-PullToRefreshLibrary/src/com/handmark/pulltorefresh/library/PullToRefreshBase.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/Android-PullToRefreshLibrary/src/com/handmark/pulltorefresh/library/PullToRefreshExpandableListView.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/Android-PullToRefreshLibrary/src/com/handmark/pulltorefresh/library/PullToRefreshGridView.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/Android-PullToRefreshLibrary/src/com/handmark/pulltorefresh/library/PullToRefreshHorizontalScrollView.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/Android-PullToRefreshLibrary/src/com/handmark/pulltorefresh/library/PullToRefreshListView.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/Android-PullToRefreshLibrary/src/com/handmark/pulltorefresh/library/PullToRefreshScrollView.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/Android-PullToRefreshLibrary/src/com/handmark/pulltorefresh/library/PullToRefreshStickyHeadersListView.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/Android-PullToRefreshLibrary/src/com/handmark/pulltorefresh/library/PullToRefreshVerticalListView.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/Android-PullToRefreshLibrary/src/com/handmark/pulltorefresh/library/PullToRefreshWebView.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/Android-PullToRefreshLibrary/src/com/handmark/pulltorefresh/library/extras/PullToRefreshWebView2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/Android-PullToRefreshLibrary/src/com/handmark/pulltorefresh/library/internal/RotateLoadingLayout.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/src/android/support/v7/internal/widget/ScrollingTabContainerView.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/src/android/support/v7/widget/SearchView.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/Android-PullToRefreshLibrary/src/com/handmark/pulltorefresh/library/stickylistheaders/SectionIndexerAdapterWrapper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/src/android/support/v7/widget/ShareActionProvider.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/Android-PullToRefreshLibrary/src/com/handmark/pulltorefresh/library/extras/SoundPullEventListener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/src/android/support/v7/internal/widget/SpinnerICS.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/Android-PullToRefreshLibrary/src/com/handmark/pulltorefresh/library/stickylistheaders/StickyListHeadersAdapter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/Android-PullToRefreshLibrary/src/com/handmark/pulltorefresh/library/stickylistheaders/StickyListHeadersListView.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/src/android/support/v7/internal/view/menu/SubMenuBuilder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/src/android/support/v7/internal/view/menu/SubMenuWrapperICS.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/src/android/support/v7/widget/SuggestionsAdapter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/src/android/support/v7/internal/view/SupportMenuInflater.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/JimnyLibs/src/com/JimnyLibs/android/utils/Util_HttpGet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/JimnyLibs/src/com/JimnyLibs/android/utils/Util_HttpPost.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/JimnyLibs/src/com/JimnyLibs/android/utils/Util_Toast.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/Android-PullToRefreshLibrary/src/com/handmark/pulltorefresh/library/internal/Utils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/Android-PullToRefreshLibrary/src/com/handmark/pulltorefresh/library/VerticalListView.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/Android-PullToRefreshLibrary/src/com/handmark/pulltorefresh/library/internal/ViewCompat.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/Android-PullToRefreshLibrary/src/com/handmark/pulltorefresh/library/stickylistheaders/WrapperView.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/layout/abc_action_bar_decor.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/layout-v11/abc_action_bar_decor.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/layout/abc_action_bar_decor_include.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/layout/abc_action_bar_decor_overlay.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/layout/abc_action_bar_home.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/layout/abc_action_bar_tab.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/layout/abc_action_bar_tabbar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/layout/abc_action_bar_title_item.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/layout/abc_action_bar_view_list_nav_layout.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/layout/abc_action_menu_item_layout.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/layout/abc_action_menu_layout.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/layout/abc_action_mode_bar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/layout/abc_action_mode_close_item.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/layout/abc_activity_chooser_view.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/layout-v14/abc_activity_chooser_view.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/layout/abc_activity_chooser_view_include.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/layout/abc_activity_chooser_view_list_item.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/layout/abc_expanded_menu_layout.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/anim/abc_fade_in.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/anim/abc_fade_out.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable/abc_ic_clear.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable/abc_ic_clear_holo_light.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable/abc_item_background_holo_dark.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable/abc_item_background_holo_light.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/layout/abc_list_menu_item_checkbox.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/layout/abc_list_menu_item_icon.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/layout/abc_list_menu_item_layout.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/layout/abc_list_menu_item_radio.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable/abc_list_selector_background_transition_holo_dark.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable/abc_list_selector_background_transition_holo_light.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable/abc_list_selector_holo_dark.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable/abc_list_selector_holo_light.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/layout/abc_popup_menu_item_layout.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable/abc_search_dropdown_dark.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/layout/abc_search_dropdown_item_icons_2line.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable/abc_search_dropdown_light.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/color/abc_search_url_text_holo.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/layout/abc_search_view.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/layout/abc_simple_decor.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/layout-v11/abc_simple_decor.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/anim/abc_slide_in_bottom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/anim/abc_slide_in_top.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/anim/abc_slide_out_bottom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/anim/abc_slide_out_top.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable/abc_spinner_ab_holo_dark.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable/abc_spinner_ab_holo_light.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable/abc_tab_indicator_ab_holo.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable/abc_textfield_searchview_holo_dark.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable/abc_textfield_searchview_holo_light.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable/abc_textfield_searchview_right_holo_dark.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable/abc_textfield_searchview_right_holo_light.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/JimnyLibs/res/layout/activity_bg_null.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/JimnyLibs/ant.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/Android-PullToRefreshLibrary/res/values/attrs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/values/attrs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/values/bools.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/values-land/bools.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/values-large/bools.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/values-w480dp/bools.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/values-w720dp/bools.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/values-xlarge/bools.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/Android-PullToRefreshLibrary/build.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/build.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/JimnyLibs/build.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/values/colors.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/values/config.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/values-land/config.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/values-large/config.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/values-sw600dp/config.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/values-w480dp/config.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/Android-PullToRefreshLibrary/res/values/dimens.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/values/dimens.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/values-land/dimens.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/values-large/dimens.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/values-sw600dp/dimens.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/values-w360dp/dimens.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/values-w500dp/dimens.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/values-w600dp/dimens.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/values-xlarge/dimens.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/fragment_login.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/icon.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/Android-PullToRefreshLibrary/res/values/ids.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/values/ids.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/Android-PullToRefreshLibrary/res/drawable/indicator_bg_bottom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/Android-PullToRefreshLibrary/res/drawable/indicator_bg_top.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/Android-PullToRefreshLibrary/lint.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/JimnyLibs/res/layout/main.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/Android-PullToRefreshLibrary/proguard-project.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/JimnyLibs/proguard-project.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/Android-PullToRefreshLibrary/project.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/project.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/JimnyLibs/project.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/Android-PullToRefreshLibrary/res/values/pull_refresh_strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/Android-PullToRefreshLibrary/res/values-ar/pull_refresh_strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/Android-PullToRefreshLibrary/res/values-cs/pull_refresh_strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/Android-PullToRefreshLibrary/res/values-de/pull_refresh_strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/Android-PullToRefreshLibrary/res/values-es/pull_refresh_strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/Android-PullToRefreshLibrary/res/values-fi/pull_refresh_strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/Android-PullToRefreshLibrary/res/values-fr/pull_refresh_strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/Android-PullToRefreshLibrary/res/values-he/pull_refresh_strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/Android-PullToRefreshLibrary/res/values-it/pull_refresh_strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/Android-PullToRefreshLibrary/res/values-iw/pull_refresh_strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/Android-PullToRefreshLibrary/res/values-ja/pull_refresh_strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/Android-PullToRefreshLibrary/res/values-ko/pull_refresh_strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/Android-PullToRefreshLibrary/res/values-nl/pull_refresh_strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/Android-PullToRefreshLibrary/res/values-pl/pull_refresh_strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/Android-PullToRefreshLibrary/res/values-pt/pull_refresh_strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/Android-PullToRefreshLibrary/res/values-pt-rBR/pull_refresh_strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/Android-PullToRefreshLibrary/res/values-ro/pull_refresh_strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/Android-PullToRefreshLibrary/res/values-ru/pull_refresh_strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/Android-PullToRefreshLibrary/res/values-zh/pull_refresh_strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/Android-PullToRefreshLibrary/res/layout/pull_to_refresh_header_horizontal.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/Android-PullToRefreshLibrary/res/layout/pull_to_refresh_header_vertical.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/Android-PullToRefreshLibrary/res/anim/slide_in_from_bottom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/Android-PullToRefreshLibrary/res/anim/slide_in_from_top.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/Android-PullToRefreshLibrary/res/anim/slide_out_to_bottom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/Android-PullToRefreshLibrary/res/anim/slide_out_to_top.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/values/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/values-af/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/values-am/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/values-ar/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/values-bg/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/values-ca/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/values-cs/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/values-da/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/values-de/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/values-el/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/values-en-rGB/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/values-en-rIN/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/values-es/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/values-es-rUS/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/values-et-rEE/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/values-fa/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/values-fi/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/values-fr/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/values-fr-rCA/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/values-hi/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/values-hr/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/values-hu/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/values-hy-rAM/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/values-in/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/values-it/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/values-iw/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/values-ja/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/values-ka-rGE/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/values-km-rKH/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/values-ko/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/values-lo-rLA/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/values-lt/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/values-lv/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/values-mn-rMN/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/values-ms-rMY/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/values-nb/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/values-nl/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/values-pl/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/values-pt/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/values-pt-rPT/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/values-ro/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/values-ru/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/values-sk/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/values-sl/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/values-sr/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/values-sv/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/values-sw/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/values-th/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/values-tl/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/values-tr/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/values-uk/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/values-vi/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/values-zh-rCN/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/values-zh-rHK/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/values-zh-rTW/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/values-zu/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/JimnyLibs/res/values/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/values/style.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/values-v14/style.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/values/styles.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/values/styles_base.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/values-v11/styles_base.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/values-v14/styles_base.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/layout/support_simple_spinner_dropdown_item.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/values/themes.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/values/themes_base.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/values-large/themes_base.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/values-large-v14/themes_base.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/values-v11/themes_base.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/values-v14/themes_base.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidManifest.xml" afterPath="$PROJECT_DIR$/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/gdmcmm/android/activity/MainActivity.java" afterPath="$PROJECT_DIR$/src/com/gdmcmm/android/activity/MainActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gdmc-mm.iml" afterPath="$PROJECT_DIR$/gdmc-mm.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/main.xml" afterPath="$PROJECT_DIR$/res/layout/main.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project.properties" afterPath="$PROJECT_DIR$/project.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/values/strings.xml" afterPath="$PROJECT_DIR$/res/values/strings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="gdmc-mm.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,14 +651,145 @@
   <component name="DaemonCodeAnalyzer">
     <disable_hints />
   </component>
+  <component name="DebuggerManager">
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <breakpoint_rules />
+    <ui_properties />
+  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="gdmc-mm" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="AppInstance.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/gdmcmm/android/AppInstance.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="24" column="5" selection-start="637" selection-end="637" vertical-scroll-proportion="0.0" vertical-offset="118" max-vertical-offset="704">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BaseActionBarActivity.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/gdmcmm/android/activity/BaseActionBarActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="51" column="50" selection-start="1920" selection-end="1920" vertical-scroll-proportion="0.8684211" vertical-offset="660" max-vertical-offset="1980">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OnLoaderDelegateListener.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/extra_libs/JimnyLibs/src/com/JimnyLibs/android/listener/OnLoaderDelegateListener.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="87" column="0" selection-start="1897" selection-end="1897" vertical-scroll-proportion="0.0" vertical-offset="1420" max-vertical-offset="2112">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
       <setting name="OPEN_NEW_TAB" value="true" />
     </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/extra_libs/JimnyLibs/src/com/JimnyLibs/common/Util_Toast.java" />
+        <option value="$PROJECT_DIR$/extra_libs/JimnyLibs/src/com/JimnyLibs/common/Util_HttpGet.java" />
+        <option value="$PROJECT_DIR$/extra_libs/JimnyLibs/src/com/JimnyLibs/common/Util_HttpPost.java" />
+        <option value="$PROJECT_DIR$/src/com/gdmcmm/android/activity/AppDebug/AppDebugConfig.java" />
+        <option value="$PROJECT_DIR$/src/com/gdmcmm/android/App/AppDebugConfig.java" />
+        <option value="$PROJECT_DIR$/src/com/gdmcmm/android/AppDebugConfig/AppDebugConfig.java" />
+        <option value="$PROJECT_DIR$/src/com/gdmcmm/android/debug/AppDebugConfig.java" />
+        <option value="$PROJECT_DIR$/src/com/gdmcmm/android/config/AppDebugConfig.java" />
+        <option value="$PROJECT_DIR$/extra_libs/JimnyLibs/res/layout/activity_bg_null.xml" />
+        <option value="$PROJECT_DIR$/extra_libs/JimnyLibs/src/com/JimnyLibs/common/activity/JimnyActivity.java" />
+        <option value="$PROJECT_DIR$/extra_libs/JimnyLibs/src/com/JimnyLibs/common/activity/JimnyCustomActivity.java" />
+        <option value="$PROJECT_DIR$/extra_libs/JimnyLibs/src/com/JimnyLibs/common/activity/JimnyActionBarActivity.java" />
+        <option value="$PROJECT_DIR$/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/res/layout/main.xml" />
+        <option value="$PROJECT_DIR$/extra_libs/JimnyLibs/src/com/JimnyLibs/common/fragment/BaseFragment.java" />
+        <option value="$PROJECT_DIR$/extra_libs/JimnyLibs/project.properties" />
+        <option value="$PROJECT_DIR$/extra_libs/Android-PullToRefreshLibrary/local.properties" />
+        <option value="$PROJECT_DIR$/extra_libs/JimnyLibs/src/com/JimnyLibs/android/utils/Util_HttpGet.java" />
+        <option value="$PROJECT_DIR$/extra_libs/JimnyLibs/src/com/JimnyLibs/android/utils/Util_HttpPost.java" />
+        <option value="$PROJECT_DIR$/src/com/gdmcmm/android/fragment/MainFragment.java" />
+        <option value="$PROJECT_DIR$/extra_libs/JimnyLibs/src/com/JimnyLibs/android/activity/BaseActionBarActivity.java" />
+        <option value="$PROJECT_DIR$/extra_libs/JimnyLibs/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/src/com/gdmcmm/android/fragment/LoginFragment.java" />
+        <option value="$PROJECT_DIR$/src/com/gdmcmm/android/activity/MainActivity.java" />
+        <option value="$PROJECT_DIR$/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/res/layout/fragment_login.xml" />
+        <option value="$PROJECT_DIR$/src/com/gdmcmm/android/fragment/Fragment_Login.java" />
+        <option value="$PROJECT_DIR$/extra_libs/JimnyLibs/src/com/JimnyLibs/android/utils/Util_Toast.java" />
+        <option value="$PROJECT_DIR$/extra_libs/JimnyLibs/src/com/JimnyLibs/android/fragment/BaseFragment.java" />
+        <option value="$PROJECT_DIR$/src/com/gdmcmm/android/fragment/FragmentLibsLogin.java" />
+        <option value="$PROJECT_DIR$/src/com/gdmcmm/android/fragment/FragmentLogin.java" />
+        <option value="$PROJECT_DIR$/src/com/gdmcmm/android/fragment/FragmentMain.java" />
+        <option value="$PROJECT_DIR$/extra_libs/JimnyLibs/src/com/JimnyLibs/android/activity/JimnyActionBarActivity.java" />
+        <option value="$PROJECT_DIR$/src/com/gdmcmm/android/fragment/base/BaseFragment.java" />
+        <option value="$PROJECT_DIR$/res/values-v14/style.xml" />
+        <option value="$PROJECT_DIR$/res/values/style.xml" />
+        <option value="$PROJECT_DIR$/res/drawable-hdpi/icon.xml" />
+        <option value="$PROJECT_DIR$/res/layout/icon.xml" />
+        <option value="$PROJECT_DIR$/src/com/gdmcmm/android/activity/BaseActionBarActivity.java" />
+        <option value="$PROJECT_DIR$/src/com/gdmcmm/android/AppInstance.java" />
+        <option value="$PROJECT_DIR$/src/com/gdmcmm/android/listener/FragmentNavigateListener.java" />
+        <option value="$PROJECT_DIR$/extra_libs/JimnyLibs/src/com/JimnyLibs/android/listener/FragmentNavigateListener.java" />
+        <option value="$PROJECT_DIR$/extra_libs/JimnyLibs/src/com/JimnyLibs/android/entity/JsonBase.java" />
+        <option value="$PROJECT_DIR$/extra_libs/JimnyLibs/src/com/JimnyLibs/android/listener/OnLoaderDelegateListener.java" />
+      </list>
+    </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
@@ -32,21 +797,43 @@
     <option name="width" value="1456" />
     <option name="height" value="886" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Serialization issues</id>
+          </State>
+          <State>
+            <id>toString() issues</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Abstraction issues</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectReloadState">
     <option name="STATE" value="0" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -74,7 +861,7 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="gdmc-mm" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -84,15 +871,147 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="gdmc-mm" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="activity" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+              <option name="myItemId" value="android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gdmc-mm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gdmc-mm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gdmc-mm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gdmc-mm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="extra_libs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JimnyLibs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gdmc-mm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gdmc-mm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="extra_libs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JimnyLibs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gdmc-mm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gdmc-mm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="extra_libs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JimnyLibs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="listener" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gdmc-mm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gdmc-mm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="extra_libs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JimnyLibs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="entity" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gdmc-mm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gdmc-mm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="extra_libs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -108,14 +1027,30 @@
     <property name="MemberChooser.showClasses" value="true" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="recentsLimit" value="5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/extra_libs/JimnyLibs/libs/gson-2.2.4.jar!/" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="options.lastSelected" value="editor.preferences.import" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="LayoutCode.rearrangeEntriesJava" value="false" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+    <property name="OverrideImplement.combined" value="true" />
+    <property name="OverrideImplement.overriding.sorted" value="false" />
+    <property name="LayoutCode.rearrangeEntriesXML" value="false" />
+    <property name="SearchEverywhereHistory" value="&#10;string&#10;style&#10;mainacti&#10;an" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Android\workspace\gdmc-mm\extra_libs\JimnyLibs\res\layout" />
+      <recent name="D:\Android\workspace\gdmc-mm\extra_libs\JimnyLibs" />
+      <recent name="D:\Android\workspace\gdmc-mm\extra_libs\JimnyLibs\libs" />
+      <recent name="D:\Android\workspace\gdmc-mm\res\layout" />
+    </key>
   </component>
   <component name="RunManager" selected="Android Application.gdmc-mm">
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
-      <module name="" />
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
-      <option name="PROGRAM_PARAMETERS" />
-      <method />
-    </configuration>
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
       <module name="" />
       <option name="TESTING_TYPE" value="0" />
@@ -257,6 +1192,8 @@
       <option name="CLEAR_LOGCAT" value="false" />
       <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
       <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <RunnerSettings RunnerId="AndroidDebugRunner" />
+      <ConfigurationWrapper RunnerId="AndroidDebugRunner" />
       <method />
     </configuration>
     <list size="1">
@@ -268,8 +1205,23 @@
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
-  <component name="SvnConfiguration">
-    <configuration />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="sslv3">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <configuration useDefault="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -280,40 +1232,40 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1456" height="886" extended-state="6" />
+    <frame x="-8" y="-8" width="1456" height="886" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.19917013" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297414" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22130014" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32918397" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32918397" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24964234" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2112069" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.46611342" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32918397" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32918397" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
-      <collection />
-    </option>
-    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
       <collection />
     </option>
   </component>
@@ -327,6 +1279,445 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/gdmcmm/android/activity/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="1" selection-start="433" selection-end="433" vertical-scroll-proportion="0.0" vertical-offset="330" max-vertical-offset="484">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/gdmcmm/android/fragment/FragmentMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="48" selection-start="379" selection-end="379" vertical-scroll-proportion="0.0" vertical-offset="166" max-vertical-offset="726">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/main.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="63" selection-start="439" selection-end="439" vertical-scroll-proportion="0.0" vertical-offset="198" max-vertical-offset="418">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/gdmcmm/android/activity/BaseActionBarActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="74" selection-start="1140" selection-end="1140" vertical-scroll-proportion="0.0" vertical-offset="330" max-vertical-offset="1298">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/gdmcmm/android/activity/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="5" selection-start="346" selection-end="346" vertical-scroll-proportion="0.0" vertical-offset="286" max-vertical-offset="462">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extra_libs/Android-PullToRefreshLibrary/src/com/handmark/pulltorefresh/library/ILoadingLayout.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="39" selection-start="324" selection-end="324" vertical-scroll-proportion="0.0" vertical-offset="286" max-vertical-offset="1364" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/gdmcmm/android/activity/BaseActionBarActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="56" selection-start="353" selection-end="353" vertical-scroll-proportion="0.0" vertical-offset="308" max-vertical-offset="550">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/gdmcmm/android/activity/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="55" selection-start="120" selection-end="120" vertical-scroll-proportion="0.0" vertical-offset="8" max-vertical-offset="462">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/gdmcmm/android/activity/BaseActionBarActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="61" selection-start="280" selection-end="280" vertical-scroll-proportion="0.0" vertical-offset="44" max-vertical-offset="550">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/gdmcmm/android/activity/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="5" selection-start="362" selection-end="362" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="484">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/gdmcmm/android/config/AppDebugConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="19" selection-start="59" selection-end="59" vertical-scroll-proportion="0.0" vertical-offset="66" max-vertical-offset="418" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/gdmcmm/android/activity/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="27" selection-start="405" selection-end="405" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="528">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/gdmcmm/android/config/AppDebugConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="0" selection-start="245" selection-end="245" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="418" />
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/extra_libs/AppCompatLibrary/libs/android-support-v4.jar!/android/support/v4/app/FragmentActivity.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="13" selection-start="165" selection-end="165" vertical-scroll-proportion="-4.4" vertical-offset="0" max-vertical-offset="2750" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extra_libs/Android-PullToRefreshLibrary/src/com/handmark/pulltorefresh/library/extras/PullToRefreshWebView2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="61" column="13" selection-start="2377" selection-end="2377" vertical-scroll-proportion="0.0" vertical-offset="672" max-vertical-offset="2574" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extra_libs/Android-PullToRefreshLibrary/src/com/handmark/pulltorefresh/library/extras/SoundPullEventListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="13" selection-start="1134" selection-end="1134" vertical-scroll-proportion="0.15895954" vertical-offset="0" max-vertical-offset="1716" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extra_libs/Android-PullToRefreshLibrary/src/com/handmark/pulltorefresh/library/ILoadingLayout.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="7" selection-start="532" selection-end="532" vertical-scroll-proportion="0.6040462" vertical-offset="0" max-vertical-offset="1364" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extra_libs/AppCompatLibrary/project.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="20" selection-start="583" selection-end="583" vertical-scroll-proportion="0.6784141" vertical-offset="0" max-vertical-offset="462" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extra_libs/Android-PullToRefreshLibrary/project.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="17" selection-start="572" selection-end="572" vertical-scroll-proportion="0.6784141" vertical-offset="0" max-vertical-offset="484" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extra_libs/Android-PullToRefreshLibrary/local.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="51" selection-start="436" selection-end="436" vertical-scroll-proportion="0.55774647" vertical-offset="0" max-vertical-offset="396" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extra_libs/AppCompatLibrary/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="19" selection-start="850" selection-end="850" vertical-scroll-proportion="0.8722467" vertical-offset="0" max-vertical-offset="572">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extra_libs/JimnyLibs/local.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="454" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extra_libs/JimnyLibs/proguard-project.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="572" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extra_libs/JimnyLibs/project.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="20" selection-start="547" selection-end="547" vertical-scroll-proportion="0.5814978" vertical-offset="0" max-vertical-offset="462" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extra_libs/JimnyLibs/src/com/JimnyLibs/android/utils/Util_HttpPost.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="87" column="14" selection-start="3799" selection-end="3799" vertical-scroll-proportion="3.277533" vertical-offset="426" max-vertical-offset="2332" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extra_libs/JimnyLibs/src/com/JimnyLibs/android/utils/Util_HttpGet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="27" selection-start="433" selection-end="433" vertical-scroll-proportion="0.8237885" vertical-offset="0" max-vertical-offset="1364" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extra_libs/JimnyLibs/res/layout/activity_bg_null.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="27" selection-start="276" selection-end="287" vertical-scroll-proportion="0.41509435" vertical-offset="0" max-vertical-offset="550">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extra_libs/JimnyLibs/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="33" selection-start="183" selection-end="183" vertical-scroll-proportion="0.095375724" vertical-offset="0" max-vertical-offset="692">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="36" selection-start="236" selection-end="236" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="352">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extra_libs/JimnyLibs/src/com/JimnyLibs/android/utils/Util_Toast.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="57" selection-start="227" selection-end="227" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="440" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/fragment_login.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="44" column="11" selection-start="1630" selection-end="1630" vertical-scroll-proportion="0.46827793" vertical-offset="658" max-vertical-offset="1320">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extra_libs/JimnyLibs/src/com/JimnyLibs/android/activity/JimnyActionBarActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="0" selection-start="597" selection-end="597" vertical-scroll-proportion="0.4913295" vertical-offset="188" max-vertical-offset="880" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/main.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="14" selection-start="455" selection-end="455" vertical-scroll-proportion="0.3323263" vertical-offset="0" max-vertical-offset="662">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/sdk/platforms/android-19/data/res/values/styles.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1151" column="35" selection-start="52425" selection-end="52425" vertical-scroll-proportion="0.0" vertical-offset="25237" max-vertical-offset="55880" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values-v14/style.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="67" selection-start="264" selection-end="264" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="374">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values/style.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="0" selection-start="279" selection-end="279" vertical-scroll-proportion="0.33920705" vertical-offset="0" max-vertical-offset="572">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/drawable-hdpi/ic_launcher.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extra_libs/AppCompatLibrary/src/android/support/v7/app/ActionBarActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="62" column="21" selection-start="2445" selection-end="2445" vertical-scroll-proportion="0.33259913" vertical-offset="575" max-vertical-offset="9834">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-hdpi/abc_ab_bottom_transparent_light_holo.9.png">
+      <provider selected="true" editor-type-id="ninepatcheditor">
+        <state />
+      </provider>
+      <provider editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extra_libs/AppCompatLibrary/res/drawable-hdpi/abc_ab_transparent_dark_holo.9.png">
+      <provider selected="true" editor-type-id="ninepatcheditor">
+        <state />
+      </provider>
+      <provider editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/gdmcmm/android/fragment/base/BaseFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="0" selection-start="299" selection-end="299" vertical-scroll-proportion="0.0" vertical-offset="1" max-vertical-offset="1914">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/gdmcmm/android/fragment/FragmentLogin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="47" selection-start="637" selection-end="637" vertical-scroll-proportion="0.5638766" vertical-offset="96" max-vertical-offset="550">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/gdmcmm/android/activity/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="8" selection-start="360" selection-end="360" vertical-scroll-proportion="0.5330396" vertical-offset="0" max-vertical-offset="454">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/gdmcmm/android/fragment/FragmentMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="47" selection-start="633" selection-end="633" vertical-scroll-proportion="0.5154185" vertical-offset="118" max-vertical-offset="572">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/gdmcmm/android/AppInstance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="5" selection-start="637" selection-end="637" vertical-scroll-proportion="0.0" vertical-offset="118" max-vertical-offset="704">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/icon.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="0" selection-start="233" selection-end="233" vertical-scroll-proportion="0.36320755" vertical-offset="0" max-vertical-offset="424">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="36" selection-start="439" selection-end="439" vertical-scroll-proportion="0.5550661" vertical-offset="34" max-vertical-offset="726">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extra_libs/JimnyLibs/src/com/JimnyLibs/android/listener/FragmentNavigateListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="0" selection-start="538" selection-end="538" vertical-scroll-proportion="0.69942194" vertical-offset="0" max-vertical-offset="692">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extra_libs/JimnyLibs/src/com/JimnyLibs/android/entity/JsonBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="1" selection-start="338" selection-end="338" vertical-scroll-proportion="0.6676301" vertical-offset="0" max-vertical-offset="692">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extra_libs/JimnyLibs/src/com/JimnyLibs/android/listener/OnLoaderDelegateListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="87" column="0" selection-start="1897" selection-end="1897" vertical-scroll-proportion="0.0" vertical-offset="1420" max-vertical-offset="2112">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/gdmcmm/android/activity/BaseActionBarActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="51" column="50" selection-start="1920" selection-end="1920" vertical-scroll-proportion="0.8684211" vertical-offset="660" max-vertical-offset="1980">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Android</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>Android API 19 Platform</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>gdmc-mm</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>gson-2.2.4</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
 

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppTheme" parent="@style/Theme.AppCompat">
+        <item name="android:windowBackground">@android:color/background_light</item>
+        <item name="actionBarStyle">@style/ActionBar.AppTheme</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar" parent="@style/Theme.AppCompat">
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowDisablePreview">true</item>
+    </style>
+
+    <style name="ActionBar.AppTheme" parent="android:style/Widget.Holo.Light.ActionBar">
+        <item name="titleTextStyle">@style/ActionBarTextColor.AppTheme</item>
+    </style>
+
+    <style name="ActionBarTextColor.AppTheme" parent="">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+</resources>

@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/extra_libs/Android-PullToRefreshLibrary/Android-PullToRefreshLibrary.iml" filepath="$PROJECT_DIR$/extra_libs/Android-PullToRefreshLibrary/Android-PullToRefreshLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/extra_libs/AppCompatLibrary/AppCompatLibrary.iml" filepath="$PROJECT_DIR$/extra_libs/AppCompatLibrary/AppCompatLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/extra_libs/JimnyLibs/JimnyLibs.iml" filepath="$PROJECT_DIR$/extra_libs/JimnyLibs/JimnyLibs.iml" />
       <module fileurl="file://$PROJECT_DIR$/gdmc-mm.iml" filepath="$PROJECT_DIR$/gdmc-mm.iml" />
     </modules>
   </component>
